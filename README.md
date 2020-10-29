@@ -15,5 +15,3 @@ An example file is:
 The features which you must implement have been prototyped in the class uk.sky.DataFilterer. You must implement the
 features in this class without changing the signatures of any methods or add any new dependencies. You must also provide
 evidence that the features you have implemented work correctly.
-
-Guide time is 1-2 hours. Your solution will be judged on a number of criteria pertinent to good software development practice. Incomplete solutions are acceptable.
